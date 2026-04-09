@@ -1,8 +1,8 @@
-# Smart Home Sensor Dashboard
+# Smart Home Sensor Dashboard 🚀
 
 Real-time IoT sensor monitoring dashboard with live-updating data, anomaly detection, and correlation analysis.
 
-**[Live Demo](https://main.d2ruu6sjflya6w.amplifyapp.com)**
+
 
 ## What It Does
 
@@ -22,12 +22,7 @@ React 18 | TypeScript | Recharts | Vite | Lucide Icons | Tailwind CSS
 
 ## Getting Started
 
-```bash
-npm install
-npm run dev
-```
-
-Open http://localhost:5173
+**[Live Smart Home Sensor Dashboard](https://main.d2ruu6sjflya6w.amplifyapp.com)**
 
 ## Deployment
 
